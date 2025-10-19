@@ -21,10 +21,10 @@ This final visualization highlights the **non-dominated skill combinations** tha
 
 Below is a conceptual example of the output produced by the notebook — illustrating how the **Pareto frontier** separates optimal skill combinations (frontier points) from suboptimal ones.  
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Pareto_Frontier.svg" width="500" alt="Pareto Frontier Example"/>
-</p>
+<div align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Pareto_Frontier.svg/640px-Pareto_Frontier.svg.png" alt="Pareto Frontier Example" width="65%">
+</div>
 
-*Points along the frontier represent the most efficient trade-offs between skill count and salary.*  
+<p align="center"><em>Points along the frontier represent the most efficient trade-offs between skill count and salary.</em></p>
 
 ---
